@@ -1,18 +1,10 @@
 #include <stdio.h>
 
-
-
 /**
-
  * main - prints out the alphabet in lowercase except for 'qe'
-
  *
-
  * Return (0)
-
  */
-
-
 
 int main(void)
 
